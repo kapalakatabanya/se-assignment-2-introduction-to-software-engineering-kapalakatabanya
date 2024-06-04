@@ -6,12 +6,19 @@ Instructions:
 Answer the following questions based on your understanding of software engineering concepts. Provide detailed explanations and examples where appropriate.
 
 Questions:
-Define Software Engineering:
+Define Software Engineering: It's the process of designing, creating, testing, and maintaining software applications or systems to solve specific problems or fulfill certain needs. Just like in construction, there's planning, drafting blueprints (or coding), assembling the parts (or writing the code), and then making sure everything works smoothly and fixing any issues that pop up.
 
 What is software engineering, and how does it differ from traditional programming?
-Software Development Life Cycle (SDLC):
+Software Development Life Cycle (SDLC): Software Engineering: this is the systemetic process of developing software which involve gathering information, designing, developing, testing, deployment and mentainance.
+it differ from the traditional as it follow systematic way to complish the task compare to the tradional which do not follow systematic way.
 
-Explain the various phases of the Software Development Life Cycle. Provide a brief description of each phase.
+Explain the various phases of the Software Development Life Cycle. Provide a brief description of each phase. the following are the phases found in thge software development life cycle 
+1. Requirement: in this phase is where the information about the development is collected as required to fix or to solve the problem
+2. Design: this phase the structure and fuctionality of the system are drafted or designed
+3. Development: in yhis after collecting all information and structuring how the system supposed to be then builing the system start by developing the module accordingly
+4. test: here we check the functionality comparing to the need do they perform in a such a way it will provide solutions from the problem
+5. deployment: in this phese then you upload the system publically
+6. maintanance: last phase is mantainance where you add some functionality if needed or remove some if not needed to ensure each and everything working smoothly
 Agile vs. Waterfall Models:
 
 Compare and contrast the Agile and Waterfall models of software development. What are the key differences, and in what scenarios might each be preferred?
